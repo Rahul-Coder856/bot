@@ -1,6 +1,6 @@
 <?php
 // টেলিগ্রাম বটের API টোকেন যোগ করুন
-$apiToken = "YOUR_BOT_API_TOKEN";
+$apiToken = "7589669203:AAE4Ar8RxmunmUlRCJDzhbTyoOa-LP5-gJM";
 
 // টেলিগ্রাম থেকে আসা JSON আপডেট ডেটা গ্রহণ
 $update = file_get_contents("php://input");
